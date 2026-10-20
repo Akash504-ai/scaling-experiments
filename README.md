@@ -6,8 +6,6 @@ Experiments with Node.js, Express, Redis, Redis Streams, Nginx, and Autocannon t
 
 The focus is not on adding infrastructure for its own sake. It is on measuring behavior, investigating unexpected results, and building a practical understanding of backend scaling.
 
-[Repository](https://github.com/Akash504-ai/scaling-experiments)
-
 ---
 
 ## Overview
@@ -282,5 +280,3 @@ The emphasis is on measured results and practical understanding, not on claiming
 ---
 
 **Author:** [Akash504-ai](https://github.com/Akash504-ai)
-
-**Repository:** [scaling-experiments](https://github.com/Akash504-ai/scaling-experiments)
